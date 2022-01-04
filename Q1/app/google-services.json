@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280933865548",
+    "firebase_url": "https://yoklamasistemi-ec99c-default-rtdb.firebaseio.com",
+    "project_id": "yoklamasistemi-ec99c",
+    "storage_bucket": "yoklamasistemi-ec99c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280933865548:android:a4690960c861a9c9cefce9",
+        "android_client_info": {
+          "package_name": "com.h5170062.q1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280933865548-tcvvepvj48j7kstl0il8qjnbmj7fjvc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdofXK9t7zIhOhlMhteOYizNoPRqMNlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280933865548-tcvvepvj48j7kstl0il8qjnbmj7fjvc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
